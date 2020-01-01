@@ -1,0 +1,15 @@
+Android: baseado no sitema Linux.
+
+Android Studio é baseado no InteliJ.
+
+Alt+insert : criar alguma coisa
+
+
+-> setar mensagem
+Toast.makeText(this, "Bem Vindo", Toast.LENGTH_LONG).show();
+
+Atalhos:
+
+crtl+shit+f12  -> aumentar tamanho do layout.
+shift+f10      -> rebuild apk android.
+
