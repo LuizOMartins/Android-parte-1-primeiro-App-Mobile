@@ -15,10 +15,6 @@ public class Aluno {
         this.email =  email;
     }
 
-    public String getEmail() {
-        return email;
-    }
-
     @NonNull
     @Override
     public String toString() {
